@@ -14,7 +14,7 @@
 
   <div class="env-container">
     <p class="description">
-      Below are the environment variables loaded from the .env file: add
+      Below are the environment variables loaded from the .env file: addasx
     </p>
 
     <div class="env-list">
